@@ -29,6 +29,11 @@ Waving your banner all over the place
 
 ## Chorus 2
 
+```text
+We will, we will rock you, sing it!
+We will, we will rock you, yeah
+```
+
 ## Verse 3
 
 ## Chorus 3
